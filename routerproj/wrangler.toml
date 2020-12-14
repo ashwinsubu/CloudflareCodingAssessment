@@ -1,0 +1,6 @@
+name = "routerproj"
+type = "webpack"
+account_id = "d2037c759e061af3b42b80f3295fd3dc"
+workers_dev = true
+route = ""
+zone_id = ""
